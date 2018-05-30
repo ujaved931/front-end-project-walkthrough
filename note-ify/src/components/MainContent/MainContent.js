@@ -3,7 +3,7 @@ import './index.css'
 class MainContent extends Component {
     render() {
         return (
-            <div>
+            <div className='main_container'>
                 MainContent PLACEHOLDER
             </div>
         );
